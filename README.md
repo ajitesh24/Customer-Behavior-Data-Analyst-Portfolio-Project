@@ -117,7 +117,8 @@ Built an **interactive dashboard** including:
 * Location-based analytics
 * Payment method distribution
 
-Dashboard enables stakeholders to quickly understand key insights visually.
+Dashboard enables stakeholders to quickly understand key insights visually<img width="1366" height="684" alt="Screenshot (379)" src="https://github.com/user-attachments/assets/d688f882-7367-435d-a163-9cc7b99cc926" />
+.
 
 ---
 
