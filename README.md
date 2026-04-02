@@ -166,11 +166,5 @@ The main objective of this project is to demonstrate:
 
 ---
 
-## 👨‍💻 Author
-
-**Ajitesh Prakash**
-Data Analyst | Python | SQL | Power BI | Analytics Projects
-
----
 
 If you want, I can **customize this README specifically for your Foxconn-style analytics dataset project** (the one you practiced SQL + Power BI on earlier) so it becomes stronger for your resume and GitHub portfolio 🚀
