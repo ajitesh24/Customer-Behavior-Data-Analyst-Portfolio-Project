@@ -165,6 +165,3 @@ The main objective of this project is to demonstrate:
 * End-to-end analytics workflow understanding
 
 ---
-
-
-If you want, I can **customize this README specifically for your Foxconn-style analytics dataset project** (the one you practiced SQL + Power BI on earlier) so it becomes stronger for your resume and GitHub portfolio 🚀
